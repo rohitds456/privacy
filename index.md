@@ -31,7 +31,7 @@ When you access the Service by or through a mobile device, this Usage Data may i
  	
 </p> <p>The app does use third party services that may collect information used to identify you.</p> <div><p>Link to privacy policy of third party service providers used by the app</p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li>
 <li><a href="https://business.facebook.com/" target="_blank">Facebook Ads</a></li>
-<li><a href="https://www,mopub.com" target="_blank">Mopub Ads</a></li> <!----> <!----> <!----> <!----> <!----> <!----></ul></div> <p><strong>Log Data</strong></p> <p> I want to inform you that whenever you use my Service, in a case of an
+<li><a href="https://www.mopub.com" target="_blank">Mopub Ads</a></li> <!----> <!----> <!----> <!----> <!----> <!----></ul></div> <p><strong>Log Data</strong></p> <p> I want to inform you that whenever you use my Service, in a case of an
  	error in the app I collect data and information (through third party products) on your phone
  	called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address,
  	device name, operating system version, the configuration of the app when utilizing my Service,
