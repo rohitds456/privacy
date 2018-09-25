@@ -1,12 +1,12 @@
 <!DOCTYPE html>
- 	<html>
- 	<head>
- 	<meta charset='utf-8'>
- 	<meta name='viewport' content='width=device-width'>
- 	<title>Privacy Policy</title>
+ <html>
+ <head>
+ <meta charset='utf-8'>
+ <meta name='viewport' content='width=device-width'>
+ 	title>Privacy Policy</title>
  	<style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
- 	</head>
- 	<body>
+ </head>
+ <body>
  	<h2>Privacy Policy</h2> <p> Telugu Live Tv built the Telugu Live TV app as an Ad Supported app. This SERVICE is provided by Telugu Live Tv at no cost and is intended for use as is.
  	</p> <p>This page is used to inform visitors regarding my policies with the collection, use, and
  	disclosure of Personal Information if anyone decided to use my Service.
@@ -16,9 +16,7 @@
  	in this Privacy Policy.
  	</p> <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
  	at Telugu Live TV unless otherwise defined in this Privacy Policy.
- 	</p> <p><strong>Information Collection and Use</strong></p> <p>For a better experience, while using our Service, I may require you to provide us with certain
- 	
-personally identifiable information, including but not limited to Android Advertising ID. The information that I request will be retained on your device and is not collected by me in any way.
+ 	</p> <p><strong>Information Collection and Use</strong></p> <p>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Android Advertising ID. The information that I request will be retained on your device and is not collected by me in any way.
 <p>Usage of Advertising ID
 Usage. The advertising identifier must only be used for advertising and user analytics. The status of the “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting must be verified on each access of the ID.
 Association with personally-identifiable information or other identifiers. The advertising identifier must not be connected to personally-identifiable information or associated with any persistent device identifier without explicit consent of the user.
@@ -71,7 +69,7 @@ When you access the Service by or through a mobile device, this Usage Data may i
  	me.
 
 	 
- 	</body>
- 	</html>
+ </body>
+ </html>
  	 
 
