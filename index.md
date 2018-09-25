@@ -1,8 +1,6 @@
 
  <html>
- <head>
- 
- 	
+ <head>	
 </head>
 <body>
  	<h2>Privacy Policy</h2> <p> Telugu Live Tv built the Telugu Live TV app as an Ad Supported app. This SERVICE is provided by Telugu Live Tv at no cost and is intended for use as is.
